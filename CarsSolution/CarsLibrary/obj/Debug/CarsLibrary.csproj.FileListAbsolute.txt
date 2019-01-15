@@ -1,0 +1,5 @@
+E:\1\На свою тему\CarsSolution\CarsLibrary\bin\Debug\CarsLibrary.dll
+E:\1\На свою тему\CarsSolution\CarsLibrary\bin\Debug\CarsLibrary.pdb
+E:\1\На свою тему\CarsSolution\CarsLibrary\obj\Debug\CarsLibrary.dll
+E:\1\На свою тему\CarsSolution\CarsLibrary\obj\Debug\CarsLibrary.pdb
+E:\1\На свою тему\CarsSolution\CarsLibrary\obj\Debug\CarsLibrary.csprojResolveAssemblyReference.cache

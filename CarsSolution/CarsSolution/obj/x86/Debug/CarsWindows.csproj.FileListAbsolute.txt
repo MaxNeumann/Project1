@@ -1,0 +1,12 @@
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsSolution.Properties.Resources.resources
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsWindows.csproj.GenerateResource.Cache
+E:\1\На свою тему\CarsSolution\CarsSolution\bin\Debug\CarsSolution.exe
+E:\1\На свою тему\CarsSolution\CarsSolution\bin\Debug\CarsSolution.pdb
+E:\1\На свою тему\CarsSolution\CarsSolution\bin\Debug\CarsLibrary.dll
+E:\1\На свою тему\CarsSolution\CarsSolution\bin\Debug\CarsLibrary.pdb
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsWindows.csprojResolveAssemblyReference.cache
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsSolution.CarForm.resources
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsSolution.DriveForm.resources
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsSolution.exe
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsSolution.pdb
+E:\1\На свою тему\CarsSolution\CarsSolution\obj\x86\Debug\CarsSolution.CarEditForm.resources
